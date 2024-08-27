@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "naixiangxiang",
+      "name": "奶香香",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
